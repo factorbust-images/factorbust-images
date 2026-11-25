@@ -5,6 +5,7 @@ Used topics – do not repeat. Rejected topics – do not retry unless new solid
 ## Posted / scheduled
 | # | Date | Topic | Verdict |
 |---|---|---|---|
+| 000 | 2026-11-25 | Welcome post: how the format works (no fact) | – |
 | 001 | 2026-11-26 | John Lowe first TV nine-darter 1984, £102,000 vs £12,000 title money, not shown live | Fact |
 | 002 | 2026-11-27 | Brian Gamlin dartboard numbering myth (Thomas Buckle lead) | Bust |
 | 003 | 2026-11-28 | Phil Taylor two nine-darters in one match, PL final 2010 vs Wade | Fact |
