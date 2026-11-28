@@ -14,5 +14,13 @@ Used topics – do not repeat. Rejected topics – do not retry unless new solid
 | 006 | 2026-12-01 | Luke Littler ~4,000 Instagram followers before first Worlds | Fact |
 | 007 | 2026-12-02 | 'Oche' from Hockey & Sons brewery myth | Bust |
 
+## Reels (re-runs of earlier facts)
+| Reel of | Date |
+|---|---|
+| #001 | 2026-11-29 12:30 |
+| #002 | 2026-11-30 12:30 |
+| #003 | 2026-12-01 12:30 |
+| #004 | 2026-12-02 12:30 |
+
 ## Rejected
 - Drinking on stage in televised 1980s darts – sources contradict each other (some say TV matches were 'dry').
